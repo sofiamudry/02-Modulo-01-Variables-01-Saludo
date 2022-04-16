@@ -4,6 +4,5 @@ alert('Hola, Bienvenide!');
 
 const nombre = prompt('Ingresa tu nombre');
 const apellido = prompt('Ingresa tu apellido');
-const edad = prompt('Ingresa tu edad');
 
-alert(Hola ${apellido}, bienvenida a Ada);
+alert(`Hola ${nombre} ${apellido}, bienvenida a Ada`);
